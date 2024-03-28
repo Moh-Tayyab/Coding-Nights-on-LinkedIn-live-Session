@@ -1,0 +1,20 @@
+{
+  "name": "@moh-tayyab0342/simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple Calculator with Typescript, Node.js, Chalk and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Tayyab",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
